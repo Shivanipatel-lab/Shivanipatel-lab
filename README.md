@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanipatel-lab" alt="shivanipatel-lab" /></a> </p>
 
+
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4062036-Time-flies-when-you-work-hard&psig=AOvVaw3ytKC41tjxCRXwI8PwNRB-&ust=1643217676846000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjGoYe1zfUCFQAAAAAdAAAAABAD">
 - 🔭Developed a Social media MERN Application [Social Meadi App](hhttps://shielded-tor-89568.herokuapp.com/)
 
 - 🌱 I’m currently learning **DSA , CPP and Web-Development**
