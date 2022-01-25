@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Shivani Patel</h1>
 <h3 align="center">I'm a final-year B.Tech Computer Science Undergraduate.Having experienced working as an Web developer Intern , I find my inclination towards Development. Passionate about Competitive Programming and Web Development alongside being pretty active and participating in events that encourage me to learn. Proficient in C++/java and also have strong foundations of data structures, algorithms, and coding fundamentals which help me understand and alleviate problems. Excellent problem-solving skills and ability to perform well in a team. Passionate about coding and enjoy learning new technologies.</h3>
